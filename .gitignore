@@ -1,0 +1,38 @@
+# Visual Studio files
+.vs/
+*.user
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build outputs
+x64/
+Release/
+Debug/
+**/Release/
+**/Debug/
+*.obj
+*.pdb
+*.exe
+*.sys
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.tlog/
+*.recipe
+*.lastbuildstate
+
+# Visual Studio cache
+*.pch
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Claude AI guidance file
+CLAUDE.md
+
+# Other
+*.tmp
+*.log
